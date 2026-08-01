@@ -1,6 +1,6 @@
-[![Shawgg's GitHub stats](https://ghstat.colorfulstage.cn/api?username=Fantasy-Shaw&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Shawgg's GitHub stats](https://ghstat.colorfulstage.cn/api?username=ac-1e9plus7&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://ghstat.colorfulstage.cn/api/top-langs/?username=Fantasy-Shaw&layout=compact&langs_count=8&hide=php,c,css,gherkin,mustache,html,assembly,scss,tsql&exclude_repo=PrivateHistoryCodeBackup,2021SysSoftwareDev,OPC-sink-master,zlinks,zlinks-ui,AI-backend,AI-frontend)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://ghstat.colorfulstage.cn/api/top-langs/?username=ac-1e9plus7&layout=compact&langs_count=8&hide=php,c,css,gherkin,mustache,html,assembly,scss,tsql&exclude_repo=PrivateHistoryCodeBackup,2021SysSoftwareDev,OPC-sink-master,zlinks,zlinks-ui,AI-backend,AI-frontend)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Fantasy-Shaw/Fantasy-Shaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
